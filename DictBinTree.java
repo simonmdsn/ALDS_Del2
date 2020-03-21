@@ -4,6 +4,13 @@ import java.util.List;
 
 import javax.sound.sampled.SourceDataLine;
 
+/**
+ * Authors:
+ *  Sofie Louise Madsen (sofma18)
+ *  Joachim Henrik Bülow (jobul18)
+ *  Simon Soele Madsen (smads18)
+ */
+
 public class DictBinTree implements Dict {
 
     BinNode root;
