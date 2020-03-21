@@ -20,10 +20,6 @@ public class DictBinTree implements Dict {
         root = null;
     }
 
-    public DictBinTree(BinNode root){
-        this.root = root;
-    }
-
     @Override
     public void insert(int k) {
 
