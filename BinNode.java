@@ -5,6 +5,7 @@
  *  Simon Soele Madsen (smads18)
  */
 
+//This class represents a node. It has references to its left and right child nodes and its own key.
 public class BinNode {
 
     BinNode left, right;
